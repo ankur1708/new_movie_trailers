@@ -1,28 +1,12 @@
-== README
+NMT = New movie trailers 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Latest movie trailers in of 3 big film industry of India. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Everybody love trailers. Old or new, biographic or animated. Trailers are the best timepass for creative people and story listeners.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is an API app hosted on Heroku (https://fathomless-beyond-61710.herokuapp.com)
+
+This server also sends push notifications to users whenever new trailer is added. 
+
+Due to google's guideline of 'No youtube videos in app', the original app got rejected many people(friends & their friends) use the raw apk because no one wants to miss the trailer.
